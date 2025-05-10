@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am studying Information and Communication Engineering at University of Tokyo. I'm a fisrt-yaer master's student.
+I am studying Information and Communication Engineering at University of Tokyo. I'm a second-yaer master's student.
 I like to play badminton and go on a trip. 🏸 ✈️
 <!--
 **amura870/amura870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
