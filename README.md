@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am studying Information and Communication Engineering at University of Tokyo. I'm a second-yaer master's student.
+I am a full-time software developer.
 I like to play badminton and go on a trip. 🏸 ✈️
 <!--
 **amura870/amura870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on , -->
-- 🌱 I’m currently learning object detection (YOLO)!
-- 🔍 Research Interests: Cybersecurity, Federated Learning
+- 🌱 I'm currently learning Golang and Kubernetes.
 
 ### Publications
 - H. Ochiai, **A. Muramatsu**, Y. Ueda, R. Yamaguchi, K. Katoh, and H. Esaki, "Tuning Vision Transformer with Device-to-Device Communication for Targeted Image Recognition", IEEE World Forum on Internet of Things (WF-IoT), 2023.
